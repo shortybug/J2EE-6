@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<OR-Mapping>
+
+    <jdbc>
+    	<property name="driver" value="com.mysql.cj.jdbc.Driver"></property>
+    	<property name ="url" value="jdbc:mysql://localhost:3306/student"></property>
+    	<property name ="username" value="root"></property><property name="password" value="zhouhao1106"></property>
+    </jdbc>
+
+    <class name="water.ustc.userBean.UserBean" table="sc">
+    	<property name="userId" column="id" type="String" lazy="false"></property>
+    	<property name="username" column="username" type="String" lazy="true"></property>
+    	<property name="userPass" column="password" type="String" lazy="true"></property>
+    </class>
+
+</OR-Mapping>

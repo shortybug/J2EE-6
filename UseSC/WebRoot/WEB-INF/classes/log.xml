@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<log>
+
+<action>
+<name>login</name>
+<start_time>2019-01-01 19:01:07</start_time>
+<end_time>2019-01-01 19:01:08</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-01 19:14:25</start_time>
+<end_time>2019-01-01 19:14:26</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 09:59:36</start_time>
+<end_time>2019-01-06 09:59:37</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:03:04</start_time>
+<end_time>2019-01-06 10:03:05</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:04:35</start_time>
+<end_time>2019-01-06 10:04:36</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:07:24</start_time>
+<end_time>2019-01-06 10:07:25</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:21:20</start_time>
+<end_time>2019-01-06 10:21:21</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:22:49</start_time>
+<end_time>2019-01-06 10:22:50</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:24:48</start_time>
+<end_time>2019-01-06 10:24:49</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:25:46</start_time>
+<end_time>2019-01-06 10:25:47</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:27:48</start_time>
+<end_time>2019-01-06 10:27:49</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:29:28</start_time>
+<end_time>2019-01-06 10:29:29</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:30:57</start_time>
+<end_time>2019-01-06 10:30:58</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:36:21</start_time>
+<end_time>2019-01-06 10:36:22</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:39:33</start_time>
+<end_time>2019-01-06 10:39:33</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:43:25</start_time>
+<end_time>2019-01-06 10:43:25</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:49:17</start_time>
+<end_time>2019-01-06 10:49:18</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:51:57</start_time>
+<end_time>2019-01-06 10:51:57</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 10:52:55</start_time>
+<end_time>2019-01-06 10:52:56</end_time>
+<result>failure</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-06 11:09:36</start_time>
+<end_time>2019-01-06 11:09:36</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 14:16:19</start_time>
+<end_time>2019-01-08 14:16:20</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 14:17:02</start_time>
+<end_time>2019-01-08 14:17:03</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 14:37:17</start_time>
+<end_time>2019-01-08 14:37:18</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 15:59:38</start_time>
+<end_time>2019-01-08 15:59:39</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 16:12:24</start_time>
+<end_time>2019-01-08 16:12:25</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 16:13:30</start_time>
+<end_time>2019-01-08 16:13:31</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 16:18:55</start_time>
+<end_time>2019-01-08 16:18:56</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 19:04:15</start_time>
+<end_time>2019-01-08 19:04:16</end_time>
+<result>success</result>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-08 20:35:20</start_time>
+<end_time>2019-01-08 20:35:20</end_time>
+<result/>
+</action>
+<action>
+<name>login</name>
+<start_time>2019-01-09 00:32:23</start_time>
+<end_time>2019-01-09 00:32:25</end_time>
+<result>success</result>
+</action>
+</log>
